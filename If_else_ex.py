@@ -1,4 +1,4 @@
-password = imput()
+password = input()
 if password == 'swordfish':
     print ('Acess granted')
 else:
